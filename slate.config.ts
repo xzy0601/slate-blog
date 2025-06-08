@@ -4,20 +4,20 @@
 import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
-  lang: 'en-US',
-  site: 'https://slate-blog-demo.vercel.app',
+  lang: 'zh-CN',
+  site: 'https://blog.19920601.xyz',
   avatar: '/avatar.png',
-  title: 'Slate Blog',
-  description: 'Pure thoughts, simple stories.',
+  title: 'littletiger Blog',
+  description: 'No matter what, future can be changed.',
   lastModified: true,
   readTime: true,
   footer: {
-    copyright: '© 2025 Slate Design',
+    copyright: '© 2025 Littletiger Design',
   },
   socialLinks: [
     {
       icon: 'github',
-      link: 'https://github.com/SlateDesign/slate-blog'
+      link: 'https://github.com/xzy0601/slate-blog'
     },
 ]
 });
