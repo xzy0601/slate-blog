@@ -7,7 +7,7 @@ export default defineConfig({
   lang: 'zh-CN',
   site: 'https://blog.19920601.xyz',
   avatar: '/avatar.png',
-  title: 'Littletiger Blog', 
+  title: `Littletiger's Blog`', 
   description: 'No matter what, future can be changed.',
   lastModified: true,
   readTime: true,
